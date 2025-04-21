@@ -163,7 +163,7 @@ export function Hero() {
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-white overflow-hidden border-4 border-white relative z-10">
               <div className="w-full h-full bg-gradient-to-br from-portfolio-light-purple/20 to-portfolio-purple/20 flex items-center justify-center">
                 <img
-                  src="../../public/hero-img.png"
+                  src="/hero-img.png"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
