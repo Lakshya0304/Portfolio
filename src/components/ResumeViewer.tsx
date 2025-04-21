@@ -33,7 +33,7 @@ export function ResumeViewer() {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <img 
-              src="/src/assets/resume.png" 
+              src="../../public/resume.png" 
               alt="Lakshya Khandelwal's Resume" 
               className="w-full h-auto rounded shadow-sm"
             />
