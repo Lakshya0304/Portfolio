@@ -20,7 +20,7 @@ export function Header() {
     e.preventDefault();
     const element = document.getElementById(id);
     if (element) {
-      const offset = element.offsetTop - 80; // Account for header height
+      const offset = element.offsetTop - 80;
       window.scrollTo({
         top: offset,
         behavior: "smooth"
